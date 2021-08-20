@@ -1,3 +1,12 @@
+/**
+ * Add/remove empty lines here to see the different error behavior
+ *
+ *
+ *
+ *
+ *
+ *
+ */
 .bad-apply {
   background-color: antiquewhite;
   @apply not-existing;

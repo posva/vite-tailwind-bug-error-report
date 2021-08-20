@@ -7,12 +7,13 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.0.5",
-    "@posva/theme": "../package"
+    "@posva/theme": "../package",
+    "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.3.0",
     "@vue/compiler-sfc": "^3.0.5",
+    "tailwindcss": "^2.2.7",
     "vite": "^2.4.4"
   }
 }
