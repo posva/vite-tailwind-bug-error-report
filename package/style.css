@@ -1,0 +1,4 @@
+.bad-apply {
+  background-color: antiquewhite;
+  @apply not-existing;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@posva/theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduardo San Martin Morote",
+  "license": "MIT"
+}
